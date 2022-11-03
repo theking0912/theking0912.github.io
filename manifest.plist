@@ -29,15 +29,16 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hada.hadameta</string>
+				<string>com.AixinCloudHealth</string>
 				<key>bundle-version</key>
-				<string>2.1.7</string>
+				<string>2.1.4.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Hada Meta</string>
+				<string>AIHealth</string>
 			</dict>
 		</dict>
 	</array>
 </dict>
 </plist>
+

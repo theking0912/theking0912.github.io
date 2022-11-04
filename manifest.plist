@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://theking0912.github.io/58x58.png</string>
+					<string>https://theking0912.github.io/image.57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://theking0912.github.io/1024x1024.png</string>
+					<string>https://theking0912.github.io/image.512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.hada.hadameta</string>
 				<key>bundle-version</key>
-				<string>217</string>
+				<string>2.1.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
